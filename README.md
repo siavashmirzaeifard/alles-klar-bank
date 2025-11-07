@@ -48,7 +48,7 @@ The **`GlobalExceptionHandler`** ensures that all API consumers receive clear, s
 
 2.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/siavashmirzaeifard/Bank.git](https://github.com/siavashmirzaeifard/alles-klar-bank.git)
+    git clone https://github.com/siavashmirzaeifard/alles-klar-bank.git
     cd Bank
     ```
 
