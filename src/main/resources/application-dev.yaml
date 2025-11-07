@@ -1,0 +1,10 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+jwt:
+  expiry-minutes: 120
+
+reset-password:
+  validity-minutes: 120

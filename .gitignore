@@ -1,0 +1,20 @@
+# Maven build artifacts
+/target/
+
+# Gradle build artifacts
+.gradle/
+/build/
+
+# IDE Files (IntelliJ, Eclipse, VS Code)
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+.vscode/
+
+# Log files
+*.log
+
+# Local properties
+src/main/resources/application-local.properties
