@@ -42,7 +42,7 @@ The **`GlobalExceptionHandler`** ensures that all API consumers receive clear, s
 *(You must configure your database connection details and JWT secret in `application.properties` or equivalent.)*
 
 1.  **Prerequisites:**
-    * Java Development Kit (JDK) 17+
+    * Java Development Kit (JDK) 21+
     * Gradle
     * A running **Database** instance (e.g., PostgreSQL).
 
