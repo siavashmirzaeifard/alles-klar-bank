@@ -54,16 +54,15 @@ A running Database instance (e.g., PostgreSQL).
 Clone the repository:
 
 Bash
-git clone https://github.com/YOUR_USERNAME/Bank.git
+git clone (https://github.com/siavashmirzaeifard/alles-klar-bank.git)
 cd Bank
-Build and Run (Assuming Maven):
 
 Bash
 # Build the project
-./mvnw clean install
 
 # Run the application
-./mvnw spring-boot:run
+
+
 💡 API Endpoints & Authorization
 Endpoint Pattern	Authorization	Purpose
 /api/auth/**	permitAll() (Public)	Registration, Login, Forget Password, Refresh Token operations.
